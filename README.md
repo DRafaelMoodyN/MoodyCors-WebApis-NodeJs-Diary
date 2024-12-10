@@ -43,4 +43,6 @@ https://expressjs.com/en/starter/installing.html
 Este comando levanta el proyecto
 npm run dev
 
+# installar los paquetes de packaje.jsons
+
 npm install
