@@ -20,3 +20,7 @@ git add .
 git commit -m"nombre"
 git pull
 git push
+
+# NodeJs
+19.9.0
+18.20.4
