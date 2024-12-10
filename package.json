@@ -1,0 +1,15 @@
+{
+  "name": "moodycors-webapis-nodejs-diary",
+  "version": "1.0.0",
+  "description": "nvm install 18.17.1\r nvm use 18.17.1\r nvm list\r nvm current",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

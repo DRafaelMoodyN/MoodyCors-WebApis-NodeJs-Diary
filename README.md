@@ -22,5 +22,25 @@ git pull
 git push
 
 # NodeJs
+
 19.9.0
 18.20.4
+
+# Libros
+
+https://books.goalkicker.com/
+
+# neo console
+
+https://console.neon.tech
+
+# express
+
+https://expressjs.com/en/starter/installing.html
+
+# Commandos de script
+
+Este comando levanta el proyecto
+npm run dev
+
+npm install
