@@ -46,3 +46,7 @@ npm run dev
 # installar los paquetes de packaje.jsons
 
 npm install
+
+# Configuracion 
+npm init
+npm init -y
