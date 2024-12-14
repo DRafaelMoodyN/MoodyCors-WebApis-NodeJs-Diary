@@ -50,3 +50,9 @@ npm install
 # Configuracion 
 npm init
 npm init -y
+npm install express
+npm instal nodemon
+
+
+# Postman
+Agente
